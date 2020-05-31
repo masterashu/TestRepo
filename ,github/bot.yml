@@ -1,0 +1,3 @@
+issue:
+    message: "Hello { ACTOR }, \"{ ACTOR }\""
+    assign: false
